@@ -4,6 +4,12 @@
   display: flex;
   justify-content: space-between;
   margin-bottom: 25px;
+  background-color: lightgray;
+}
+.header .heading {
+  text-align: left;
+  margin-right: 70vw;
+  margin-bottom: 12px;
 }
 
 .header .logo-container {
@@ -21,4 +27,5 @@
 }
 .header .options .option {
   padding: 10px 15px;
+  cursor: pointer;
 }
